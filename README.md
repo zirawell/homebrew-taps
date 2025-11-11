@@ -6,6 +6,7 @@ This repo is used to store the old version of self-used softwares.
 | dash       	     | 6.4.3       |
 | datagrip    	     | 2024.2.2    |
 | dbeaverultimate    | 25.0.0      |
+| downie		     | 4.9.12,4939 |
 | goland    	     | 2024.3.5    |
 | imazing    	     | 3.1.2       |
 | input-source-pro   | 2.5.0-beta  |
