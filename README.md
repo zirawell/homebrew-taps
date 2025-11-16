@@ -14,6 +14,7 @@ This repo is used to store the old version of self-used softwares.
 | istat-menus        | 7.10.0      |
 | iterm2@nightly     | 3_5_20250611|
 | jordanbaird-ice    | 0.11.12     |
+| karabiner-elements | 14.13.0     |
 | parallels          | 19.4.0      |
 | pdf-expert         | 3.10.14     |
 | proxyman           | 5.4.0       |
