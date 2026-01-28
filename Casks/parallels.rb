@@ -15,7 +15,7 @@ cask "parallels" do
     end
   end
 
-  auto_updates true
+  auto_updates false
   conflicts_with cask: [
     "parallels@12",
     "parallels@13",

@@ -13,7 +13,7 @@ cask "jordanbaird-ice" do
     strategy :sparkle, &:short_version
   end
 
-  auto_updates true
+  auto_updates false
   conflicts_with cask: "jordanbaird-ice@beta"
   depends_on macos: ">= :sonoma"
 

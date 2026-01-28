@@ -7,7 +7,7 @@ cask "syntax-highlight" do
   desc "Quicklook extension for source files"
   homepage "https://github.com/sbarex/SourceCodeSyntaxHighlight"
 
-  auto_updates true
+  auto_updates false
   depends_on macos: ">= :catalina"
 
   app "Syntax Highlight.app"

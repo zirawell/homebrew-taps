@@ -13,7 +13,7 @@ cask "textsniper" do
     strategy :header_match
   end
 
-  auto_updates true
+  auto_updates false
   depends_on macos: ">= :catalina"
 
   app "TextSniper.app"

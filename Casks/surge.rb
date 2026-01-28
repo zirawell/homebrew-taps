@@ -18,7 +18,7 @@ cask "surge" do
     end
   end
 
-  auto_updates true
+  auto_updates false
   conflicts_with cask: "surge@4"
   depends_on macos: ">= :monterey"
 

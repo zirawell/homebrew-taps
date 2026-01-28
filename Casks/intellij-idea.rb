@@ -23,9 +23,9 @@ cask "intellij-idea" do
     end
   end
 
-  auto_updates true
+  auto_updates false
   conflicts_with cask: "intellij-idea@eap"
-  depends_on macos: ">= :high_sierra"
+  depends_on macos: ">= :big_sur"
 
   app "IntelliJ IDEA.app"
   binary "#{appdir}/IntelliJ IDEA.app/Contents/MacOS/idea"

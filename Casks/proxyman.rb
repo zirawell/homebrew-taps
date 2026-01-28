@@ -12,7 +12,7 @@ cask "proxyman" do
     strategy :sparkle
   end
 
-  auto_updates true
+  auto_updates false
   depends_on macos: ">= :big_sur"
 
   app "Proxyman.app"

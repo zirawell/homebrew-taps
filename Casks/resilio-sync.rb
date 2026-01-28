@@ -12,7 +12,7 @@ cask "resilio-sync" do
     regex(/(\d+(?:\.\d+)*)/i)
   end
 
-  auto_updates true
+  auto_updates false
 
   app "Resilio Sync.app"
 

@@ -12,9 +12,9 @@ cask "dash@6" do
     strategy :sparkle, &:short_version
   end
 
-  auto_updates true
+  auto_updates false
   conflicts_with cask: "dash"
-  depends_on macos: ">= :high_sierra"
+  depends_on macos: ">= :big_sur"
 
   app "Dash.app"
 

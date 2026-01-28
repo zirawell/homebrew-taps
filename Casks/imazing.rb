@@ -12,7 +12,7 @@ cask "imazing" do
     strategy :sparkle
   end
 
-  auto_updates true
+  auto_updates false
 
   app "iMazing.app"
 

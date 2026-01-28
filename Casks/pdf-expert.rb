@@ -12,7 +12,7 @@ cask "pdf-expert" do
     strategy :sparkle
   end
 
-  auto_updates true
+  auto_updates false
   conflicts_with cask: "pdf-expert@beta"
   depends_on macos: ">= :monterey"
 

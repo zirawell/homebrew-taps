@@ -13,7 +13,7 @@ cask "istat-menus" do
     strategy :header_match
   end
 
-  auto_updates true
+  auto_updates false
   depends_on macos: ">= :big_sur"
 
   app "iStat Menus.app"
